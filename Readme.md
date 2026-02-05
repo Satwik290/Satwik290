@@ -25,7 +25,7 @@
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/YOUR_RESUME_LINK/view">
+  <a href="https://drive.google.com/file/d/1MGGVPNqKCMxRGfjVWByNqHEkmd9GBtZ3/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive" />
   </a>
 </p>
