@@ -69,9 +69,9 @@
 
 | Project | Tech | Description | Link |
 |---------|------|-------------|------|
-| DocLync-Pro | MERN, JWT, Cloudinary | Healthcare Document Platform | 🔗 [Repo](https://github.com/Satwik290/DocLync-Pro) |
+| DocLync-Pro | MERN, JWT, Cloudinary |A secure healthcare document management platform enabling seamless upload, access, and sharing of medical records | 🔗 [Repo](https://github.com/Satwik290/DocLync-Pro) |
 | Portfolio | React, Tailwind | Personal Website | 🔗 [Live](https://satwik290.github.io/Satwik_Portfolio/) |
-| Auth System | Node, JWT, Redis | Secure Auth Backend | 🔗 Coming Soon |
+| FinTrack | MERN, TypeScript, Chart.js | A personal finance tracking application to monitor expenses, analyze spending patterns, and visualize financial insights with interactive dashboards | 🔗 [Repo](https://github.com/Satwik290/FinTrack)  |
 
 ---
 
